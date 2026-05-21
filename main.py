@@ -251,5 +251,5 @@ if __name__ == "__main__":
         else:
             Ch_show = [27, 11, 5]
 
-        display_pseudo_color(im_out, GT, Ch_show)
+        # display_pseudo_color(im_out, GT, Ch_show)
 
